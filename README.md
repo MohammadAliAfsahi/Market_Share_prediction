@@ -7,8 +7,7 @@ In order to create a model to predict target column, following steps have take:
 2. feature engineering
 3. choose algorithm and evaluate performance
 
-For preprocessing data, First, sklearn LabelEncoder is used, to label each distinct value of a column to a numerical value. 
-Second, Data normalization couldn't help model perfomace for some column.?
+As For preprocessing data part, First, sklearn LabelEncoder is used, to label each distinct value of a column to a numerical value. Second, Data normalization couldn't help model perfomace for some column.?
 
 This dataset has 20 columns which one of them is the target column. Among 19 different columns 13 of have taken as input features for model. These featues are specified in the notebook.
 
