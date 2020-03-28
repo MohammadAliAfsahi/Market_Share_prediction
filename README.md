@@ -16,6 +16,6 @@ Among chosen features, 'Temperature in Montreal during episode', 'Start_time and
 This dataset has 20 columns which one of them is the target column. Among 19 different columns, 13 of have taken as input features for model. These featues are specified in the notebook.
 
 The best result could achieve is for simple multi layered percepton regressor model with following outputs:
-- Loss = 2.566
-- mean absolute error = 1.41
-- R-squared score = 0.79
+- Loss = 2.159
+- mean absolute error = 1.31
+- R-squared score = 0.81
