@@ -1,4 +1,4 @@
-# YapAiTek-assignment
+# Market Share prediction
 The dataset belongs to the Montreal Local TV channels, which contain some information. The goal is to predict Market Share_total column.
 
 Required libraries are pandas, numpy, sklearn and keras, but most of the notebook is written with sklearn, pandas and numpy.
